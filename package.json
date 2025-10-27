@@ -7,7 +7,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.11.0",
-    "canvas": "^2.11.2",
     "history": "^5.3.0",
     "jest": "^27.5.1",
     "lucide-react": "^0.539.0",
