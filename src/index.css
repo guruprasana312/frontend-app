@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f5f6fa;
+  color: #2f3640;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 2rem auto;
+}
+
+h1, h2 {
+  color: #192a56;
+}
+
+button {
+  background: #273c75;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  margin: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #40739e;
+}
+
+input, select {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #dcdde1;
+  border-radius: 6px;
+  width: 100%;
+}
+
+.navbar {
+  background: #192a56;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+  font-weight: 500;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 12px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
