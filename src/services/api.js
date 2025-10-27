@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE = `${process.env.REACT_APP_API_BASE || 'http://localhost:8080/'}api/bills`;
+const API_BASE = `https://backend-app-dev.onrender.com/api/bills`;
 
 console.log('API Base URL:', API_BASE);
 
